@@ -1,7 +1,7 @@
 import { activityData, heatColor } from "../dashboard/constants";
 
 const DAYS = ["S", "M", "T", "W", "T", "F", "S"];
-
+// 
 const ActivityHeatmap = () => (
   <div>
     {/* Day labels */}
